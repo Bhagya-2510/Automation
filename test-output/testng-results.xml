@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-14T11:18:55 IST" name="Default suite" finished-at="2023-04-14T11:25:15 IST" duration-ms="379688">
+    <groups>
+    </groups>
+    <test started-at="2023-04-14T11:18:55 IST" name="Default test" finished-at="2023-04-14T11:25:15 IST" duration-ms="379688">
+      <class name="testclass.NewListingTest">
+        <test-method is-config="true" signature="setUpMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testclass.NewListingTest@563e4951]" started-at="2023-04-14T11:18:55 IST" name="setUpMethod" finished-at="2023-04-14T11:18:55 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testclass.NewListingTest@563e4951]" started-at="2023-04-14T11:18:55 IST" name="setup" finished-at="2023-04-14T11:19:05 IST" duration-ms="9298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testclass.NewListingTest.NewListingTest() throws java.lang.InterruptedException,java.io.IOException,org.json.simple.parser.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NewListingTest()[pri:0, instance:testclass.NewListingTest@563e4951]" started-at="2023-04-14T11:19:05 IST" name="NewListingTest" finished-at="2023-04-14T11:25:15 IST" duration-ms="370360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewListingTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:testclass.NewListingTest@563e4951]" started-at="2023-04-14T11:25:15 IST" name="tearDown" finished-at="2023-04-14T11:25:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testclass.NewListingTest.NewListingTest() throws java.lang.InterruptedException,java.io.IOException,org.json.simple.parser.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testclass.NewListingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
